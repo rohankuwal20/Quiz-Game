@@ -1,2 +1,2 @@
 # Quiz-Game
-A simple calculator built using python.
+A simple quiz game built using python.
